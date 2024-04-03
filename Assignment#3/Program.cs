@@ -80,7 +80,6 @@ namespace CodeByDrei
             } while (convertAgain == 'Y' || convertAgain == 'y');
 
             Console.WriteLine("\nThank you for using this time converter!");
-            Console.ReadLine();
         }
 
     }
